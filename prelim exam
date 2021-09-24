@@ -1,0 +1,8 @@
+import numpy as np
+a =np.array ([2,7,4]) 
+b =np.array ([3,9,8])
+print (a)
+print (b)
+
+c = np.cross(a,b) 
+print (c)
